@@ -23,7 +23,7 @@ Sample Input :
 8
 Sample Output :
 1
-*/
+*/ 
 //code snippet
 
 int firstIndex(int input[], int size, int x) {
