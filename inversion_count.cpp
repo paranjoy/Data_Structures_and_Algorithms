@@ -1,6 +1,6 @@
 /*
 Inversion Count
-Send Feedback
+
 Let A[0 ... n-1] be an array of n distinct positive integers. If i < j and A[i] > A[j] then the pair (i, j) is called an
 inversion of A (where i and j are indexes of A). Given an integer array A, your task is to find the number of inversions in A.
 
